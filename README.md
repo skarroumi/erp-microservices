@@ -17,10 +17,9 @@
 ![Image](https://i.imgur.com/n8lX4eQ.png)
 * Class diagram V2
 ![Image](https://i.imgur.com/ZhLLkUV.png)
-
 * Leave class diagram
-![Image](https://i.imgur.com/Uy2guZb.png)
 
+![Image](https://i.imgur.com/Uy2guZb.png)
 * Authentication class diagram
 ![Image](https://i.imgur.com/iOAPiB1.png)
 
