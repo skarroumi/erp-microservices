@@ -2,20 +2,28 @@
 
 ## Logical Architecture
 ### Generic Architecture
-![Image](https://i.imgur.com/58S8SEK.png)
+![Image](https://i.imgur.com/spV8CM2.png)
 ### Concrete Architecture
-![Image](https://i.imgur.com/DYpwLOQ.png)
+![Image](https://i.imgur.com/LN6ucjN.png)
+
+## Human Resources Application Architecture
+![Image](https://i.imgur.com/mGkDNyj.png)
 
 ## Design
 ### Use Case diagram
-![Image](https://i.imgur.com/RFZyZhT.png)  
+![Image](https://i.imgur.com/khgUt1c.png)  
 
 ### Class diagrams
 * Employee class diagram
 ![Image](https://i.imgur.com/n8lX4eQ.png)
+V2
+![Image](https://i.imgur.com/ZhLLkUV.png)
 
 * Leave class diagram
------TO BE ADDED ----
+![Image](https://i.imgur.com/Uy2guZb.png)
+
+* Authentication class diagram
+![Image](https://i.imgur.com/iOAPiB1.png)
 
 ### Package diagram
 ![Image](https://i.imgur.com/KpeqbM9.png)
