@@ -5,8 +5,7 @@
 ![Image](https://i.imgur.com/spV8CM2.png)
 ### Concrete Architecture
 ![Image](https://i.imgur.com/LN6ucjN.png)
-
-## Human Resources Application Architecture
+### Human Resources Application Architecture
 ![Image](https://i.imgur.com/mGkDNyj.png)
 
 ## Design
